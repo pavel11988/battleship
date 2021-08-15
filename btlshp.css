@@ -6,7 +6,7 @@ div#board {
 	width: 1024px;
 	height: 863px;
 	margin: auto;
-	background: url("../img/btlshp/board.jpg") no-repeat;
+	background: url("./btlshp/board.jpg") no-repeat;
 }
 
 div#messageArea{  /*поле вывода сообщений*/
@@ -44,9 +44,9 @@ form input{
 }
 
 .hit {
-	background: url("../img/btlshp/ship.png") no-repeat center center;
+	background: url("./btlshp/ship.png") no-repeat center center;
 }
 .miss {
-	background: url("../img/btlshp/miss.png") no-repeat center center;
+	background: url("./btlshp/miss.png") no-repeat center center;
 }
 
